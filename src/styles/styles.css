@@ -1,0 +1,37 @@
+.explorer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.response-wrapper {
+  padding: 20px;
+  margin: 0;
+  border: 1px solid #d3d3d3;
+  border-radius: 4px;
+}
+
+.node-container {
+  padding-left: 20px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  color: #808080;
+}
+
+.input-field {
+  border: 1px solid #d3d3d3;
+  border-radius: 4px;
+}
+
+.jsonKey {
+  color: #00f;
+  cursor: pointer;
+}
+
+.response-label {
+  color: #808080;
+}
